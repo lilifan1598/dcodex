@@ -16,17 +16,28 @@
 设计端是 `dcodex` 的核心部分，提供了丰富的功能模块来帮助设计和管理应用。具体功能包括：
 
 - **领域设计**: 用于设计领域模型、数据源管理、对象定义、公共字典维护、公用页面设计等。
+  ![image](https://github.com/user-attachments/assets/43e036b7-b4f9-4496-887a-355917ec8ba8)
 - **数据源管理**: 维护所有应用的数据源，支持数据源类型、配置等管理。
+  ![image](https://github.com/user-attachments/assets/e9784280-101f-4d14-88b7-c6b67835afd8)
 - **门户管理**: 配置应用门户类型、配置及初始用户和组织。
+  ![image](https://github.com/user-attachments/assets/ea4ef9bb-c161-47e5-955c-8aabe8df96cd)
 - **访问配置**: 设置访问入口、登录标题、背景、LOGO 等登录鉴权配置。
+  ![image](https://github.com/user-attachments/assets/305e8c61-b210-424a-87e3-4b793a9d8484)
 - **数据模型设计**: 设计数据模型类型、配置和字段。
+  ![image](https://github.com/user-attachments/assets/91902cfe-26ed-420a-ad5b-95589b68524e)
 - **页面设计**: 配置应用页面的类型、布局、交互逻辑等。
+  ![image](https://github.com/user-attachments/assets/9a0deb7d-6b53-449d-b947-a9670587ce84)
 - **业务编排**: 设计应用的业务逻辑和编排。
+  ![image](https://github.com/user-attachments/assets/808488f4-7505-47c3-ae10-cd5c3cd12e93)
 - **工作流设计**: 创建应用的工作流节点、配置等。
+  ![image](https://github.com/user-attachments/assets/06bed49e-4ad7-4628-9af2-8e19fcb4b70a)
 - **插件管理**: 管理应用插件类型、版本和配置。
+  ![image](https://github.com/user-attachments/assets/c6823d71-77c7-477c-aab0-79302f002737)
 
 ### 2. 用户端
 在设计端完成应用后，最终产物会在用户端呈现，提供完整的业务功能和用户体验。
+![image](https://github.com/user-attachments/assets/0996ab1a-6021-42f3-a0b5-f9897b1dc9e9)
+
 
 ### 3. 支持多种部署方式
 - 私有化部署：支持物理机、虚拟机及国产化信创平台等。
